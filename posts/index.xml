@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://deepjparekh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Auto Publish Test</title>
+      <link>https://deepjparekh.github.io/posts/auto_publish_test/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://deepjparekh.github.io/posts/auto_publish_test/</guid>
+      <description>Test blog to verify auto publish.</description>
+    </item>
+    
+    <item>
       <title>Upcoming</title>
       <link>https://deepjparekh.github.io/posts/upcoming/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
@@ -16,15 +25,6 @@
       <description>Hello, stay tuned and bookmark this blog to get latest and greatest content on mobile software engineering. This will be a one stop shop covering basic concepts to bleeding edge new technologies. The aim of this blog is to help you get better at mobile software engineering.
 The following platforms will be covered in future posts :
  Android iOS Backend native  Thanks again for visiting and see you soon in next post.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://deepjparekh.github.io/posts/auto_publish_test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://deepjparekh.github.io/posts/auto_publish_test/</guid>
-      <description>Test blog to verify auto publish.</description>
     </item>
     
   </channel>
