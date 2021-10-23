@@ -1,1 +1,0 @@
-README:# deepjparekh.github.io
