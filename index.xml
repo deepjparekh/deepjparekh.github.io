@@ -19,6 +19,15 @@ The following platforms will be covered in future posts :
     </item>
     
     <item>
+      <title></title>
+      <link>https://deepjparekh.github.io/posts/auto_publish_test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deepjparekh.github.io/posts/auto_publish_test/</guid>
+      <description>Test blog to verify auto publish.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://deepjparekh.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
